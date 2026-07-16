@@ -1,8 +1,8 @@
-# Generación de Informes Ejecutivos de RRHH
+# Generación de Informes Ejecutivos para Productividad y Gestión
 
 ## Objetivo
 
-Crear informes ejecutivos claros, estructurados y orientados a la toma de decisiones para responsables de Recursos Humanos, dirección y comités de gestión, a partir de información operativa, indicadores, proyectos o iniciativas relacionadas con la gestión del talento.
+Transformar información dispersa, reuniones, informes operativos, proyectos y métricas en informes ejecutivos claros y accionables que faciliten la toma de decisiones, el seguimiento de objetivos y la mejora de la productividad empresarial.
 
 ## Herramienta recomendada
 
@@ -10,69 +10,70 @@ Claude AI
 
 ## Área
 
-Recursos Humanos (RRHH)
+Productividad
 
 ## Cuándo utilizarlo
 
-- Elaboración de informes para dirección general.
-- Presentación de indicadores de RRHH.
-- Seguimiento de iniciativas de talento.
-- Informes de selección y contratación.
-- Análisis de rotación y retención.
-- Reportes de formación y desarrollo profesional.
-- Resúmenes de iniciativas de bienestar y clima laboral.
+- Elaboración de informes para dirección.
+- Seguimiento de proyectos y planes de acción.
+- Resumen de reuniones ejecutivas.
+- Consolidación de información procedente de distintas áreas.
+- Informes de productividad y rendimiento.
+- Preparación de comités de seguimiento.
+- Elaboración de informes semanales o mensuales.
 
 ## Prompt
 
-Actúa como Director de Recursos Humanos con experiencia en organizaciones de tamaño medio y grande.
+Actúa como consultor senior especializado en productividad, gestión empresarial y elaboración de informes ejecutivos.
 
-Necesito que transformes la información que te proporcionaré en un informe ejecutivo profesional dirigido a dirección general.
+Analiza la información proporcionada y genera un informe ejecutivo profesional dirigido a responsables de área, dirección o comité de seguimiento.
 
-Genera el informe utilizando la siguiente estructura:
+Utiliza la siguiente estructura:
 
 1. Resumen ejecutivo.
 2. Situación actual.
-3. Principales indicadores y resultados.
-4. Aspectos positivos destacados.
-5. Riesgos o áreas de mejora identificadas.
-6. Recomendaciones prioritarias.
-7. Próximos pasos.
-8. Conclusiones para la dirección.
+3. Principales avances alcanzados.
+4. Indicadores y métricas relevantes.
+5. Riesgos, incidencias o bloqueos detectados.
+6. Oportunidades de mejora.
+7. Acciones prioritarias recomendadas.
+8. Próximos pasos.
+9. Conclusiones para dirección.
 
-Utiliza un lenguaje profesional, orientado a negocio y enfocado en la toma de decisiones.
+Presenta la información de forma estructurada, clara y orientada a la toma de decisiones.
 
-Cuando existan datos numéricos, incorpora tablas resumen y destaca tendencias relevantes.
+Cuando existan datos numéricos, destaca tendencias, desviaciones y resultados relevantes mediante tablas y listas resumidas.
 
 Información a analizar:
 
-[Pegar información, indicadores, incidencias, resultados o datos de RRHH]
+[Pegar notas, resultados, informes, actas de reunión, indicadores o documentación]
 
 ## Resultado esperado
 
-Un informe ejecutivo breve, estructurado y orientado a la dirección, que facilite la comprensión rápida de la situación del área de Recursos Humanos y permita identificar oportunidades de mejora, riesgos y acciones prioritarias.
+Un informe ejecutivo breve, claro y orientado a negocio que permita comprender rápidamente el estado de una actividad, proyecto, departamento o iniciativa, facilitando la toma de decisiones y el seguimiento de objetivos.
 
 ## Recomendaciones
 
-- Facilitar datos cuantitativos siempre que sea posible.
-- Incorporar indicadores de rotación, absentismo, contratación y formación.
-- Solicitar a la IA que identifique tendencias y patrones.
-- Revisar siempre las conclusiones antes de presentarlas a dirección.
-- Utilizar el mismo formato para todos los informes para facilitar comparativas periódicas.
+- Incluir siempre métricas cuantificables cuando estén disponibles.
+- Utilizar información procedente de varias fuentes para obtener una visión más completa.
+- Solicitar a la IA que identifique prioridades y acciones concretas.
+- Mantener una estructura homogénea en todos los informes para facilitar comparativas entre periodos.
+- Complementar el informe con indicadores de rendimiento y productividad.
 
 ## Variantes
 
-### Variante 1 – Informe de selección y contratación
+### Variante 1 – Informe semanal de productividad
 
-Genera un informe ejecutivo centrado en procesos de selección, contratación, cobertura de vacantes y calidad de las incorporaciones.
+Genera un informe ejecutivo con los avances, tareas completadas, bloqueos, prioridades y acciones previstas para la próxima semana.
 
-### Variante 2 – Informe de formación
+### Variante 2 – Informe de proyecto
 
-Analiza datos de formación y genera un informe con participación, cumplimiento, satisfacción, certificaciones obtenidas y recomendaciones futuras.
+Centra el análisis en el estado del proyecto, hitos alcanzados, riesgos, desviaciones y plan de acción.
 
-### Variante 3 – Informe de clima laboral
+### Variante 3 – Resumen ejecutivo de reuniones
 
-Elabora un informe ejecutivo a partir de resultados de encuestas de clima, identificando fortalezas, riesgos y acciones de mejora.
+Transforma las notas de reunión en un informe ejecutivo con decisiones tomadas, acuerdos, responsables y próximos pasos.
 
-### Variante 4 – Informe mensual de RRHH
+### Variante 4 – Informe mensual para dirección
 
-Genera un resumen ejecutivo mensual con los principales KPIs, incidencias, avances y prioridades para el próximo periodo.
+Elabora un informe mensual consolidado destacando resultados, indicadores, incidencias, oportunidades y recomendaciones estratégicas.
