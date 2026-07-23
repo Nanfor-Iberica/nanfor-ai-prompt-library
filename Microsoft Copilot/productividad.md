@@ -1,84 +1,100 @@
-Prompt para Optimizar y Automatizar Tareas en Excel con Microsoft Copilot
-Objetivo
+# Prompt para Optimizar y Automatizar Tareas en Excel con Microsoft Copilot
+
+## Objetivo
 
 Ayudar a profesionales y empresas a analizar, organizar, automatizar y obtener información útil de hojas de cálculo de Excel mediante instrucciones en lenguaje natural utilizando Microsoft Copilot.
 
-Herramienta recomendada
+## Herramienta recomendada
 
 Microsoft Copilot
 
-Área
+## Área
 
 Productividad
 
-Cuándo utilizarlo
-Cuando se necesita analizar grandes volúmenes de datos rápidamente.
-Para crear fórmulas complejas sin necesidad de conocimientos avanzados de Excel.
-Cuando se requiere generar tablas dinámicas, gráficos o resúmenes ejecutivos.
-Para identificar tendencias, anomalías o patrones en los datos empresariales.
-Cuando se desea automatizar tareas repetitivas de limpieza, clasificación o consolidación de información.
-Para preparar informes comerciales, financieros, operativos o de recursos humanos en menos tiempo.
-Prompt
-Actúa como un experto en análisis de datos empresariales y Microsoft Excel.
+## Cuándo utilizarlo
 
-Analiza la hoja de cálculo que tengo abierta y ayúdame a obtener información útil para la toma de decisiones.
+- Cuando se necesita analizar grandes volúmenes de datos rápidamente.
+- Para crear fórmulas complejas sin necesidad de conocimientos avanzados de Excel.
+- Cuando se requiere generar tablas dinámicas, gráficos o resúmenes ejecutivos.
+- Para identificar tendencias, anomalías o patrones en los datos empresariales.
+- Cuando se desea automatizar tareas repetitivas de limpieza, clasificación o consolidación de información.
+- Para preparar informes comerciales, financieros, operativos o de recursos humanos en menos tiempo.
 
-Tu trabajo es:
+## Prompt
 
-1. Identificar automáticamente la estructura de los datos.
-2. Detectar columnas relevantes, posibles errores, datos duplicados o valores faltantes.
-3. Crear las fórmulas necesarias para realizar los cálculos más importantes.
-4. Resumir los principales hallazgos en lenguaje sencillo y orientado a negocio.
-5. Proponer gráficos o tablas dinámicas que ayuden a visualizar la información.
-6. Sugerir acciones concretas basadas en los datos obtenidos.
+Actúa como un experto en Microsoft Excel, análisis de datos empresariales y productividad corporativa.
 
-Contexto empresarial:
-[Describe aquí el objetivo del análisis. Ejemplo: analizar ventas, productividad, gastos, inventario, formación, clientes o recursos humanos.]
+Voy a proporcionarte una hoja de cálculo o trabajaré sobre un archivo Excel abierto.
 
-El resultado debe incluir:
+Tu misión es ayudarme a analizar la información, detectar oportunidades de mejora y automatizar tareas para aumentar la eficiencia de la empresa.
+
+Analiza la estructura de los datos e identifica columnas clave, relaciones entre datos y posibles errores. Detecta registros duplicados, valores faltantes o inconsistencias. Propón fórmulas de Excel para automatizar cálculos relevantes. Sugiere tablas dinámicas, segmentaciones y gráficos adecuados. Resume los resultados con un enfoque empresarial. Identifica tendencias, riesgos y oportunidades. Además, propón acciones concretas para mejorar la productividad.
+
+Contexto:
+
+[Describe aquí el objetivo del análisis. Ejemplo: ventas, finanzas, recursos humanos, inventario, formación, operaciones o servicio al cliente.]
+
+Necesito que generes:
+
 - Resumen ejecutivo.
-- Indicadores clave detectados.
-- Tendencias relevantes.
-- Riesgos u oportunidades.
-- Recomendaciones accionables para la empresa.
+- Principales KPI.
+- Hallazgos relevantes.
+- Recomendaciones accionables.
+- Automatizaciones sugeridas.
+- Visualizaciones recomendadas.
 
-Resultado esperado
+Utiliza un lenguaje claro orientado a responsables de negocio y toma de decisiones.
 
-Microsoft Copilot analiza la información disponible en Excel y genera:
+## Resultado esperado
 
-Un resumen ejecutivo comprensible para responsables de negocio.
-Fórmulas sugeridas o creadas automáticamente.
-Indicadores clave (KPI).
-Gráficos y visualizaciones recomendadas.
-Detección de errores o inconsistencias.
-Recomendaciones para optimizar procesos y mejorar la toma de decisiones.
+Microsoft Copilot analiza automáticamente la información de Excel y proporciona:
 
-Ejemplo:
+- Resumen ejecutivo para dirección.
+- Fórmulas sugeridas o generadas automáticamente.
+- Indicadores clave de rendimiento (KPI).
+- Análisis de tendencias y patrones.
+- Detección de errores o inconsistencias.
+- Recomendaciones de mejora.
+- Gráficos y tablas dinámicas recomendadas.
+- Propuestas de automatización para reducir trabajo manual.
 
-Una empresa carga un archivo con las ventas de los últimos 12 meses. Copilot identifica los productos más vendidos, detecta meses con caídas de ventas, calcula márgenes automáticamente y propone gráficos comparativos para presentar los resultados a dirección.
+Ejemplo práctico:
 
-Recomendaciones
-Mantener nombres de columnas claros y consistentes.
-Incluir encabezados en todas las tablas.
-Especificar siempre el objetivo de negocio del análisis.
-Solicitar conclusiones orientadas a decisiones empresariales y no solo a métricas.
-Complementar el análisis con gráficos y tablas dinámicas para facilitar la comunicación de resultados.
-Utilizar Copilot para generar explicaciones en lenguaje ejecutivo cuando los informes vayan dirigidos a directivos.
-Variantes
-Análisis de ventas
-Analiza esta hoja de ventas e identifica los productos más rentables, las tendencias por mes y las oportunidades de crecimiento. Genera un resumen ejecutivo para dirección.
+Una empresa importa un histórico de ventas de los últimos 24 meses. Copilot identifica los productos más rentables, calcula márgenes automáticamente, detecta caídas de rendimiento por región y propone un dashboard ejecutivo para la toma de decisiones.
 
-Control financiero
-Revisa esta hoja de gastos e ingresos. Detecta desviaciones presupuestarias, calcula márgenes y propone medidas de optimización de costes.
+## Recomendaciones
 
-Recursos Humanos
-Analiza los datos de empleados, ausencias y productividad. Identifica patrones relevantes y genera recomendaciones para mejorar la gestión del talento.
+- Utiliza nombres de columnas claros y consistentes.
+- Evita celdas combinadas cuando sea posible.
+- Mantén los datos estructurados en formato tabla.
+- Define el objetivo empresarial antes de solicitar el análisis.
+- Solicita propuestas de automatización además de los resultados.
+- Pide siempre conclusiones orientadas a la toma de decisiones.
+- Utiliza los resúmenes ejecutivos generados por Copilot para informes y reuniones de dirección.
 
-Inventario
-Examina el inventario actual, identifica productos con baja rotación o riesgo de ruptura de stock y propone acciones correctivas.
+## Variantes
 
-Formación corporativa
-Analiza los datos de participación en cursos, tasas de finalización y resultados obtenidos. Identifica oportunidades para mejorar el programa formativo de la organización.
+### Análisis de ventas
 
+Analiza esta hoja de ventas y determina los productos más rentables, las tendencias por periodo y las oportunidades de crecimiento. Genera además un resumen ejecutivo para dirección.
 
-Basado en casos habituales de productividad empresarial con Microsoft Copilot y Excel para análisis y toma de decisiones.
+### Control financiero
+
+Analiza los datos financieros, calcula márgenes, detecta desviaciones presupuestarias y propone acciones para optimizar costes y mejorar la rentabilidad.
+
+### Recursos humanos
+
+Analiza los indicadores de personal, ausencias, rotación y productividad. Identifica patrones relevantes y propone mejoras para la gestión del talento.
+
+### Gestión de inventario
+
+Analiza el inventario actual e identifica productos con baja rotación, exceso de stock o riesgo de desabastecimiento. Propón acciones correctivas.
+
+### Formación corporativa
+
+Analiza los datos de participación y finalización de cursos. Identifica oportunidades para mejorar el rendimiento de los programas formativos y aumentar el compromiso de los empleados.
+
+### Generación de dashboards
+
+Crea un dashboard ejecutivo con los principales KPI de esta hoja de cálculo. Incluye gráficos, segmentaciones y recomendaciones para facilitar la toma de decisiones.
